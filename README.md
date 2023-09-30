@@ -18,3 +18,4 @@ The ticker symbol
 Yearly change from the opening price at the beginning of a given year to the closing price at the end of that year.
 
 The percentage change from the opening price at the beginning of a given year to the closing price at the end of that year.
+![Image 9-30-23 at 2 21 PM](https://github.com/EKellerman/VBA_challenge_EK/assets/69646666/80c9a2b3-38ea-421c-9624-b5af886373c2)
